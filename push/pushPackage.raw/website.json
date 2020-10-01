@@ -1,0 +1,10 @@
+{
+  "websiteName": "Safari Notification Test",
+  "websitePushID": "web.site.kylecorbin",
+  "allowedDomains": [
+    "https://kylecorbin.site"
+  ],
+  "urlFormatString": "https://kylecorbin.site/notification/%@/%@",
+  "authenticationToken": "12345678910111213141516",
+  "webServiceURL": "https://yourdomain.com/push" //todo
+}
